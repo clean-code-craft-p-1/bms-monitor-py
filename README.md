@@ -1,4 +1,4 @@
-# Programming Paradigms
+# Working with legacy
 
 Health Monitoring Systems
 
@@ -36,13 +36,4 @@ Can we add future functionality without disturbing existing features? Can we do 
 - A vendor may provide additional vital readings (e.g., blood pressure)
 - Limits may change based on the age of a patient
 
-> Predicting the future requires Astrology!
-
-## Keep it simple and testable
-
-Shorten the Semantic distance
-
-- Procedural to express sequence
-- Functional to express relation between input and output
-- Object oriented to encapsulate state with actions
-- Apect oriented to capture repeating aspects
+> Predicting the future requires Astrology! So keep it simple and testable
